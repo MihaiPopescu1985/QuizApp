@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="enter_your_name">Enter your name :</string>
+    <string name="submit_answer">Submit answer</string>
+    <string name="int_is">In java, \" int \" is :</string>
+    <string name="data_type">primitive data type</string>
+    <string name="background_image">Background Image</string>
+    <string name="primitive_data_type">primitive data type</string>
+    <string name="a_class">class</string>
+    <string name="a_method">method</string>
+    <string name="an_object">object</string>
+    <string name="int_max_value">Maximum value an int can store is :</string>
+    <string name="dont_know">I don\'t know</string>
+    <string name="no_max_val">no maximum value</string>
+    <string name="max_16">no more than 2^16 – 1</string>
+    <string name="no_max_32">no more than 2^31–1</string>
+    <string name="int_min_value">Minimum value an int can have is :</string>
+    <string name="no_min">no minimum value</string>
+    <string name="min_16">no less than -2^16</string>
+    <string name="min_32">no less than - 2^31</string>
+    <string name="select_correct">Select correct declarations</string>
+    <string name="correct_1">int myInt ;</string>
+    <string name="correct_2">int my Int ;</string>
+    <string name="correct_3">int myInt = 5;</string>
+    <string name="correct_4">int myInt = 5.2;</string>
+    <string name="select_incorrect">Select incorrect declarations</string>
+</resources>
